@@ -1,0 +1,218 @@
+{
+  "search_metadata": {
+    "id": "691886923f79f5209f53d6b5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a740e62b7ecebe47/691886923f79f5209f53d6b5.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/a740e62b7ecebe47/691886923f79f5209f53d6b5.json_with_pixel_position",
+    "created_at": "2025-11-15 13:56:34 UTC",
+    "processed_at": "2025-11-15 13:56:34 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Atiktok.com%2F%2A+faker&oq=site%3Atiktok.com%2F%2A+faker&hl=en&gl=us&num=100&safe=active&nfpr=1&start=370&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a740e62b7ecebe47/691886923f79f5209f53d6b5.html",
+    "total_time_taken": 2.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:tiktok.com/* faker",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "safe": "active",
+    "start": 370,
+    "num": "100",
+    "device": "desktop",
+    "nfpr": "1"
+  },
+  "search_information": {
+    "query_displayed": "site:tiktok.com/* faker",
+    "total_results": 3820000,
+    "page_number": 38,
+    "time_taken_displayed": 1.04,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best League of Legends Moments ft. Faker - Top 1 Plays",
+      "link": "https://www.tiktok.com/@t1fakerfans/video/7338799305337113899",
+      "displayed_link": "286.2K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b22585791448b0bc7b4f399263848a19c.jpeg",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6bece31d513476c18aa2372a40818ce27a.png",
+      "snippet": "#leagueoflegends #lolguide #lolgamer #loloutplay #lolhighlights #t1faker #fakerlol #t1lol. Keywords: League of Legends moments, Faker highlights ...",
+      "duration": "1:05",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSOFboxh64bJ97xINcdcVGXDRPB-nflTaSwfg",
+      "source": "TikTok · T1.Faker"
+    },
+    {
+      "position": 2,
+      "title": "Faker Highlights in League of Legends",
+      "link": "https://www.tiktok.com/@t1fakerfans/video/7330646150673861930",
+      "displayed_link": "209.5K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b12164314b3c8d31f9712f432983229c3.jpeg",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b740307c09b24715e397ea367538a100c.png",
+      "snippet": "Get insights, tips, and tricks from the legendary gamer. #leagueoflegends #t1faker #fakerlol #lolhighlights. Keywords: T1 Faker League of ...",
+      "duration": "1:04",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQnbhHJgApeeskHpRi4qkRLfoQatVg6N9Pghg",
+      "source": "TikTok · T1.Faker"
+    },
+    {
+      "position": 3,
+      "title": "Faker Yone is Insane #gaming #leagueoflegends #faker",
+      "link": "https://www.tiktok.com/@beastofvids/video/7218539260947844395",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40beastofvids/video/7218539260947844395&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQFnoECBkQAQ",
+      "displayed_link": "25K+ views · 2 years ago",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b0b95c656928f9669a19efefaecb59cd5.png",
+      "snippet": "267 Likes, TikTok video from BeastVids (@beastofvids): “Faker Yone is Insane #gaming #leagueoflegends #faker”. Trap Mafia - Lastra.",
+      "snippet_highlighted_words": [
+        "Faker",
+        "faker"
+      ],
+      "source": "TikTok · BeastVids"
+    },
+    {
+      "position": 4,
+      "title": "LoL Esports - 롤드컵 2025: 승리와 패배의 교차점",
+      "link": "https://www.tiktok.com/@lolesports/video/7571045221425745165",
+      "displayed_link": "374.8K+ views · 5 days ago",
+      "thumbnail": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6bdb48890fd97e3b52123d64496aa3415e.jpeg",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6bfd042277d4bc25f1be141bee250b7ed8.png",
+      "snippet": "\"Mic check T1 vs KT\" Faker : Lên đi, có a đây. Doran : E lỗi rồi a cơ, cứu bé. Tình huống Doran mắc lỗi trong ván 5 chung kết LMHT - LOL Kết ...",
+      "duration": "0:33",
+      "source": "TikTok · LoL Esports"
+    },
+    {
+      "position": 5,
+      "title": "Faker Outplays Ahri with Pantheon Mid in League of Legends",
+      "link": "https://www.tiktok.com/@t1fakerfans/video/7197066824066845998",
+      "displayed_link": "17.1K+ views · 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6bdf4d2b42ed28419fd247ef3125796a67.jpeg",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b8164a4577c1cb99a99f0249880536391.png",
+      "snippet": "Witness the intense gameplay and strategic moves in this exciting showdown! #faker #leagueoflegends #outplayed #ahri. Keywords: Faker vs Ahri ...",
+      "duration": "0:51",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQzW9bAhweqdYqXG9iJJnNbIQqChg87YoDkMw",
+      "source": "TikTok · T1.Faker"
+    },
+    {
+      "position": 6,
+      "title": "Faker's Mid Ezreal Mastery - Part 3",
+      "link": "https://www.tiktok.com/@t1fakerfans/video/7357350485365476651",
+      "displayed_link": "3.4K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b46d7bb666be869f921389302cd86d475.jpeg",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b8a0c3488c8eb09c09e2dfb9b2d4503b2.png",
+      "snippet": "137 Likes, TikTok video from T1.Faker (@t1fakerfans): “Discover the thrilling outplays of Faker using Mid Ezreal in League of Legends!",
+      "duration": "1:22",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSCAgTj99q9vyJ6lEE82CH64fjllDBkC5NyMw",
+      "source": "TikTok · T1.Faker"
+    },
+    {
+      "position": 7,
+      "title": "C'est Faker ouuu ? 😱 #leagueoflegends ...",
+      "link": "https://www.tiktok.com/@klanik_esport/video/7364310714636455201",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40klanik_esport/video/7364310714636455201&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQFnoECCQQAQ",
+      "displayed_link": "650+ views · 1 year ago",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b3e59e2f44269c3e890684dac91e14a60.png",
+      "snippet": "21 j'aime,Vidéo TikTok de Klanik Esport (@klanik_esport) : « C'est Faker ouuu ? #leagueoflegends #leagueoflegendsclips #riotgames ...",
+      "snippet_highlighted_words": [
+        "Faker"
+      ],
+      "source": "TikTok · Klanik Esport"
+    },
+    {
+      "position": 8,
+      "title": "Faker's Incredible 1vs4 Escape in League of Legends",
+      "link": "https://www.tiktok.com/@omletlolclips/video/7276423644979514657",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40omletlolclips/video/7276423644979514657&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQFnoECCUQAQ",
+      "displayed_link": "382.6K+ views · 2 years ago",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b7606108455c169d8dd7c94863b5c6815.png",
+      "snippet": "Do they kill Faker? Yes or no? Videos? No. Okay, let's see what he does. 3 on 1, 4 on 1 as Cody Sun comes down.",
+      "snippet_highlighted_words": [
+        "Faker"
+      ],
+      "source": "TikTok · Omlet-LOLclips"
+    },
+    {
+      "position": 9,
+      "title": "Faker's Teleport Play in League of Legends Wild Rift",
+      "link": "https://www.tiktok.com/@zytrustt/video/7492362381079661842",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40zytrustt/video/7492362381079661842&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQFnoECCMQAQ",
+      "displayed_link": "870+ views · 7 months ago",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b59728e3f03c6c1fa1c96af1fd6a85470.png",
+      "snippet": "676 Likes, 20 Comments. TikTok video from zytrustt (@zytrustt): “Watch Faker's incredible teleport play in Wild Rift!",
+      "snippet_highlighted_words": [
+        "Faker's"
+      ],
+      "source": "TikTok · zytrustt"
+    },
+    {
+      "position": 10,
+      "title": "Top League of Legends Moments by Faker",
+      "link": "https://www.tiktok.com/@t1fakerfans/video/7326082875902659882",
+      "displayed_link": "61.2K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6bc7d4c937b22f1505f31d41890bc57646.jpeg",
+      "favicon": "https://serpapi.com/searches/691886923f79f5209f53d6b5/images/77390ff8e7f7f8c55205e9798bfcae6b196dc12c74e06ce0e8cd52de2348c360.png",
+      "snippet": "1381 Likes, TikTok video from T1.Faker (@t1fakerfans): “Watch the best highlights and outplays by T1 Faker in League of Legends.",
+      "duration": "1:08",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQTnnvzMbVkibwNkTYEllLb8qHTQ-rUwV159g",
+      "source": "TikTok · T1.Faker"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Faker mouse",
+      "link": "https://www.google.com/search?safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&q=Faker+mouse&sa=X&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ1QJ6BAgfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=Faker+mouse&safe=active&start=370"
+    },
+    {
+      "block_position": 1,
+      "query": "Faker Gordon Korman",
+      "link": "https://www.google.com/search?safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&q=Faker+Gordon+Korman&sa=X&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ1QJ6BAggEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=Faker+Gordon+Korman&safe=active&start=370"
+    },
+    {
+      "block_position": 1,
+      "query": "T1 merch",
+      "link": "https://www.google.com/search?safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&q=T1+merch&sa=X&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ1QJ6BAgiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=T1+merch&safe=active&start=370"
+    },
+    {
+      "block_position": 1,
+      "query": "T1 shop",
+      "link": "https://www.google.com/search?safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&q=T1+shop&sa=X&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ1QJ6BAghEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=T1+shop&safe=active&start=370"
+    }
+  ],
+  "pagination": {
+    "current": 38,
+    "previous": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=360&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8dMDegQIChAC",
+    "next": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=380&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8NMDegQIChAX",
+    "other_pages": {
+      "33": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=320&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAE",
+      "34": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=330&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAG",
+      "35": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=340&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAI",
+      "36": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=350&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAK",
+      "37": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=360&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAM",
+      "39": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=380&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAP",
+      "40": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=390&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAR",
+      "41": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=400&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAT",
+      "42": "https://www.google.com/search?q=site:tiktok.com/*+faker&safe=active&sca_esv=69bdf2a40b3867bf&hl=en&gl=us&nfpr=1&ei=koYYafvgOt6FwbkPkbDLwAQ&start=410&sa=N&ved=2ahUKEwj78b_bp_SQAxXeQjABHRHYEkg48gIQ8tMDegQIChAV"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 38,
+    "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=360",
+    "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=360",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=380",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=380",
+    "other_pages": {
+      "33": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=320",
+      "34": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=330",
+      "35": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=340",
+      "36": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=350",
+      "37": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=360",
+      "39": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=380",
+      "40": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=390",
+      "41": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=400",
+      "42": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&nfpr=1&num=100&q=site%3Atiktok.com%2F%2A+faker&safe=active&start=410"
+    }
+  }
+}
