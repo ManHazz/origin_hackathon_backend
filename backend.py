@@ -5,6 +5,7 @@ from heatmap.services.trends import get_country_search_density
 from username_tracker.routers.maigret_router import router as maigret_router
 from socialmediatracer.tikspyder_wrapper import fetch_tiktok_by_query
 from geminiagent.gemini_agent import analyze_title, _fallback_result
+from duckduckgo_search import DDGS
 
 from pydantic import BaseModel, EmailStr
 from typing import List, Optional, Dict, Any
