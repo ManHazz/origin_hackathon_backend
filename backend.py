@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from heatmap.services.trends import get_country_search_density
 from username_tracker.routers.maigret_router import router as maigret_router
 from socialmediatracer.tikspyder_wrapper import fetch_tiktok_by_query
+from geminiagent.gemini_agent import analyze_title, _fallback_result
 from pydantic import BaseModel, EmailStr
 from typing import List, Optional, Dict, Any
 from datetime import datetime
@@ -418,4 +419,34 @@ async def get_supported_platforms():
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error loading platforms: {str(e)}")
+    
+
+#gemini endpoint
+class PostRecordIn(BaseModel):
+    record_id: int
+    source: Optional[str] = ""
+    author: Optional[str] = ""
+    title: str
+    link: Optional[str] = ""
+
+
+class PostRecordOut(BaseModel):
+    record_id: int
+    title: str
+    verdict: str
+    threat_score: int
+    reason: str
+
+
+# ---------- Single-record endpoint ----------
+
+@app.post("/analyze-title", response_model=PostRecordOut)
+async def analyze_title_endpoint(record: PostRecordIn):
+    """
+    Analyze a single social media post's TITLE using Gemini
+    and return the threat_score + verdict.
+    """
+    result = analyze_title(record.dict())
+    return result
+
 
