@@ -1,7 +1,8 @@
-from utils.normalize import normalize_scores
+from heatmap.utils.normalize import normalize_scores
 import random
 import json
 import os
+
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TOPOJSON_PATH = os.path.join(BASE_DIR, "..", "countries.json")
@@ -16,9 +17,7 @@ with open(TOPOJSON_PATH, "r", encoding="utf-8") as f:
 geometries = topo["objects"]["countries"]["geometries"]
 
 COUNTRY_NAMES = [
-    geom["properties"]["name"]
-    for geom in geometries
-    if "name" in geom["properties"]
+    g["properties"]["name"] for g in geometries
 ]
 
 def get_country_search_density(keyword: str):
