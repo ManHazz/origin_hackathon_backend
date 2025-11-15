@@ -5,6 +5,7 @@ from heatmap.services.trends import get_country_search_density
 from username_tracker.routers.maigret_router import router as maigret_router
 from socialmediatracer.tikspyder_wrapper import fetch_tiktok_by_query
 from geminiagent.gemini_agent import analyze_title, _fallback_result
+
 from pydantic import BaseModel, EmailStr
 from typing import List, Optional, Dict, Any
 from datetime import datetime
@@ -33,8 +34,37 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-#heatmap endpoint
 @app.get("/search")
+async def search_top_urls(keyword: str = Query(..., min_length=1)):
+    """
+    Given a keyword, return top 10 URLs from the web.
+    """
+    try:
+        results = []
+
+        # DuckDuckGo search (no API key needed)
+        with DDGS() as ddgs:
+            for r in ddgs.text(keyword, max_results=10):
+                # r structure typically: {"title": ..., "href": ..., "body": ...}
+                results.append({
+                    "title": r.get("title"),
+                    "url": r.get("href"),
+                    "snippet": r.get("body"),
+                })
+
+        return {
+            "keyword": keyword,
+            "count": len(results),
+            "results": results,
+        }
+
+    except Exception as e:
+        # In production, don't leak raw error; log it instead
+        raise HTTPException(status_code=500, detail=f"Search failed: {e}")
+
+
+#heatmap endpoint
+@app.get("/map/search")
 def search_keyword(keyword: str):
     if not keyword:
         raise HTTPException(status_code=400, detail="Keyword is required")
