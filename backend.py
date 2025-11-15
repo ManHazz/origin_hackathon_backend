@@ -1,6 +1,7 @@
 #import username search function
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from heatmap.services.trends import get_country_search_density
 from username_tracker.routers.maigret_router import router as maigret_router
 from socialmediatracer.tikspyder_wrapper import fetch_tiktok_by_query
 from pydantic import BaseModel, EmailStr
@@ -31,6 +32,17 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+#heatmap endpoint
+@app.get("/search")
+def search_keyword(keyword: str):
+    if not keyword:
+        raise HTTPException(status_code=400, detail="Keyword is required")
+    
+    result = get_country_search_density(keyword)
+    return {
+        "keyword": keyword,
+        "results": result
+    }
 
 @app.get("/tiktok/search")
 def tiktok_search(
@@ -73,17 +85,6 @@ DOMAIN_MAP = {
     'facebook': 'facebook.com', 'linkedin': 'linkedin.com', 'snapchat': 'snapchat.com',
     'reddit': 'reddit.com', 'tiktok': 'tiktok.com', 'netflix': 'netflix.com'
 }
-
-
-# CORS Configuration
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Update with your frontend domain in production
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
 
 # Pydantic Models
 class EmailCheckRequest(BaseModel):
